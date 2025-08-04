@@ -1,0 +1,15 @@
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-2\HealthSystemApp\bin\Debug\net8.0\HealthSystemApp.exe
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-2\HealthSystemApp\bin\Debug\net8.0\HealthSystemApp.deps.json
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-2\HealthSystemApp\bin\Debug\net8.0\HealthSystemApp.runtimeconfig.json
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-2\HealthSystemApp\bin\Debug\net8.0\HealthSystemApp.dll
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-2\HealthSystemApp\bin\Debug\net8.0\HealthSystemApp.pdb
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-2\HealthSystemApp\obj\Debug\net8.0\HealthSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-2\HealthSystemApp\obj\Debug\net8.0\HealthSystemApp.AssemblyInfoInputs.cache
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-2\HealthSystemApp\obj\Debug\net8.0\HealthSystemApp.AssemblyInfo.cs
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-2\HealthSystemApp\obj\Debug\net8.0\HealthSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-2\HealthSystemApp\obj\Debug\net8.0\HealthSystemApp.sourcelink.json
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-2\HealthSystemApp\obj\Debug\net8.0\HealthSystemApp.dll
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-2\HealthSystemApp\obj\Debug\net8.0\refint\HealthSystemApp.dll
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-2\HealthSystemApp\obj\Debug\net8.0\HealthSystemApp.pdb
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-2\HealthSystemApp\obj\Debug\net8.0\HealthSystemApp.genruntimeconfig.cache
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-2\HealthSystemApp\obj\Debug\net8.0\ref\HealthSystemApp.dll
