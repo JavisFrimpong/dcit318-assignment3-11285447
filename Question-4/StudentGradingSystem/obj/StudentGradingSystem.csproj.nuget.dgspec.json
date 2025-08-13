@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\javis\\Desktop\\Assigments\\318\\dcit318-assignment3-11285447\\Question-4\\StudentResultProcessorApp\\StudentResultProcessorApp.csproj": {}
+    "C:\\Users\\javis\\Desktop\\Assigments\\318\\dcit318-assignment3-11285447\\Question-4\\StudentGradingSystem\\StudentGradingSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\javis\\Desktop\\Assigments\\318\\dcit318-assignment3-11285447\\Question-4\\StudentResultProcessorApp\\StudentResultProcessorApp.csproj": {
+    "C:\\Users\\javis\\Desktop\\Assigments\\318\\dcit318-assignment3-11285447\\Question-4\\StudentGradingSystem\\StudentGradingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\javis\\Desktop\\Assigments\\318\\dcit318-assignment3-11285447\\Question-4\\StudentResultProcessorApp\\StudentResultProcessorApp.csproj",
-        "projectName": "StudentResultProcessorApp",
-        "projectPath": "C:\\Users\\javis\\Desktop\\Assigments\\318\\dcit318-assignment3-11285447\\Question-4\\StudentResultProcessorApp\\StudentResultProcessorApp.csproj",
+        "projectUniqueName": "C:\\Users\\javis\\Desktop\\Assigments\\318\\dcit318-assignment3-11285447\\Question-4\\StudentGradingSystem\\StudentGradingSystem.csproj",
+        "projectName": "StudentGradingSystem",
+        "projectPath": "C:\\Users\\javis\\Desktop\\Assigments\\318\\dcit318-assignment3-11285447\\Question-4\\StudentGradingSystem\\StudentGradingSystem.csproj",
         "packagesPath": "C:\\Users\\javis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\javis\\Desktop\\Assigments\\318\\dcit318-assignment3-11285447\\Question-4\\StudentResultProcessorApp\\obj\\",
+        "outputPath": "C:\\Users\\javis\\Desktop\\Assigments\\318\\dcit318-assignment3-11285447\\Question-4\\StudentGradingSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\javis\\AppData\\Roaming\\NuGet\\NuGet.Config"
