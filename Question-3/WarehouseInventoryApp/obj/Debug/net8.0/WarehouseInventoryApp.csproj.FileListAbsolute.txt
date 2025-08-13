@@ -1,0 +1,15 @@
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-3\WarehouseInventoryApp\bin\Debug\net8.0\WarehouseInventoryApp.exe
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-3\WarehouseInventoryApp\bin\Debug\net8.0\WarehouseInventoryApp.deps.json
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-3\WarehouseInventoryApp\bin\Debug\net8.0\WarehouseInventoryApp.runtimeconfig.json
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-3\WarehouseInventoryApp\bin\Debug\net8.0\WarehouseInventoryApp.dll
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-3\WarehouseInventoryApp\bin\Debug\net8.0\WarehouseInventoryApp.pdb
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-3\WarehouseInventoryApp\obj\Debug\net8.0\WarehouseInventoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-3\WarehouseInventoryApp\obj\Debug\net8.0\WarehouseInventoryApp.AssemblyInfoInputs.cache
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-3\WarehouseInventoryApp\obj\Debug\net8.0\WarehouseInventoryApp.AssemblyInfo.cs
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-3\WarehouseInventoryApp\obj\Debug\net8.0\WarehouseInventoryApp.csproj.CoreCompileInputs.cache
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-3\WarehouseInventoryApp\obj\Debug\net8.0\WarehouseInventoryApp.sourcelink.json
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-3\WarehouseInventoryApp\obj\Debug\net8.0\WarehouseInventoryApp.dll
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-3\WarehouseInventoryApp\obj\Debug\net8.0\refint\WarehouseInventoryApp.dll
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-3\WarehouseInventoryApp\obj\Debug\net8.0\WarehouseInventoryApp.pdb
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-3\WarehouseInventoryApp\obj\Debug\net8.0\WarehouseInventoryApp.genruntimeconfig.cache
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-3\WarehouseInventoryApp\obj\Debug\net8.0\ref\WarehouseInventoryApp.dll
