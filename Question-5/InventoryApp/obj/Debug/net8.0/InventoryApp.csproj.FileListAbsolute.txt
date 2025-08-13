@@ -1,0 +1,15 @@
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-5\InventoryApp\bin\Debug\net8.0\InventoryApp.exe
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-5\InventoryApp\bin\Debug\net8.0\InventoryApp.deps.json
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-5\InventoryApp\bin\Debug\net8.0\InventoryApp.runtimeconfig.json
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-5\InventoryApp\bin\Debug\net8.0\InventoryApp.dll
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-5\InventoryApp\bin\Debug\net8.0\InventoryApp.pdb
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-5\InventoryApp\obj\Debug\net8.0\InventoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-5\InventoryApp\obj\Debug\net8.0\InventoryApp.AssemblyInfoInputs.cache
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-5\InventoryApp\obj\Debug\net8.0\InventoryApp.AssemblyInfo.cs
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-5\InventoryApp\obj\Debug\net8.0\InventoryApp.csproj.CoreCompileInputs.cache
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-5\InventoryApp\obj\Debug\net8.0\InventoryApp.sourcelink.json
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-5\InventoryApp\obj\Debug\net8.0\InventoryApp.dll
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-5\InventoryApp\obj\Debug\net8.0\refint\InventoryApp.dll
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-5\InventoryApp\obj\Debug\net8.0\InventoryApp.pdb
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-5\InventoryApp\obj\Debug\net8.0\InventoryApp.genruntimeconfig.cache
+C:\Users\javis\Desktop\Assigments\318\dcit318-assignment3-11285447\Question-5\InventoryApp\obj\Debug\net8.0\ref\InventoryApp.dll
