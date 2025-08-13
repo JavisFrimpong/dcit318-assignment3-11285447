@@ -1,0 +1,5 @@
+Mark Antwi (ID: 10113): Score = 84, Grade = A
+Kwadwo Spencer (ID: 11032): Score = 72, Grade = B
+Mary Saka (ID: 10763): Score = 59, Grade = D
+Samuel Owusu (ID: 12914): Score = 45, Grade = F
+Akwasi Antwi (ID: 23871): Score = 20, Grade = F
